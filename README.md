@@ -58,8 +58,8 @@ pip install -r requirements.txt
 
 Detailed instructions and code examples are provided in the Jupyter Notebook included in this repository.
 
-**Models Implemented
-**
+Models Implemented
+
 The following machine learning algorithms are utilized:
 
 - Logistic Regression
